@@ -24,7 +24,7 @@ A basic, lightweight, & distributed implementation of Kubernetes written fully i
 | ResourceQuotas            |             |          |
 | LimitRanges               |             |          |
 
-## Workload Resources
+### Workload Resources
 
 | Resource                  | In Progress | Completed |
 |---------------------------|-------------|-----------|
@@ -35,14 +35,14 @@ A basic, lightweight, & distributed implementation of Kubernetes written fully i
 | Jobs                      |             |          |
 | CronJobs                  |             |          |
 
-## Networking Resources
+### Networking Resources
 
 | Resource                  | In Progress | Completed |
 |---------------------------|-------------|-----------|
 | Ingress                   |             |          |
 | NetworkPolicies           |             |          |
 
-## Authentication & Authorization Resources
+### Authentication & Authorization Resources
 
 | Resource                  | In Progress | Completed |
 |---------------------------|-------------|-----------|
@@ -52,14 +52,14 @@ A basic, lightweight, & distributed implementation of Kubernetes written fully i
 | ClusterRoles              |             |          |
 | ClusterRoleBindings       |             |          |
 
-## Custom Resource Definitions (CRDs)
+### Custom Resource Definitions (CRDs)
 
 | Resource                  | In Progress | Completed |
 |---------------------------|-------------|-----------|
 | CustomResourceDefinitions (CRDs) |       |          |
 | Any custom resources defined by CRDs |   |          |
 
-## Cluster Management
+### Cluster Management
 
 | Resource                  | In Progress | Completed |
 |---------------------------|-------------|-----------|
@@ -67,7 +67,7 @@ A basic, lightweight, & distributed implementation of Kubernetes written fully i
 | ClusterVersions (OpenShift-specific) | |          |
 | ComponentStatuses         |             |          |
 
-## Storage and Volume Resources
+### Storage and Volume Resources
 
 | Resource                  | In Progress | Completed |
 |---------------------------|-------------|-----------|
@@ -76,14 +76,14 @@ A basic, lightweight, & distributed implementation of Kubernetes written fully i
 | CSIDrivers                |             |          |
 | CSIStorageCapacities      |             |          |
 
-## Metrics & Autoscaling
+### Metrics & Autoscaling
 
 | Resource                  | In Progress | Completed |
 |---------------------------|-------------|-----------|
 | HorizontalPodAutoscalers (HPA) |        |          |
 | VerticalPodAutoscalers (if enabled) |    |          |
 
-## API Access Control
+### API Access Control
 
 | Resource                  | In Progress | Completed |
 |---------------------------|-------------|-----------|
@@ -91,7 +91,7 @@ A basic, lightweight, & distributed implementation of Kubernetes written fully i
 | MutatingWebhookConfigurations |        |          |
 | ValidatingWebhookConfigurations |      |          |
 
-## Supported Operations
+### Supported Operations
 
 | Operation                 | In Progress | Completed |
 |---------------------------|-------------|-----------|
